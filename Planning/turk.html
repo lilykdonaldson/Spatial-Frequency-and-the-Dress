@@ -1,0 +1,20 @@
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+<crowd-form answer-format="flatten-objects">
+    <crowd-image-classifier 
+        src="${image_url}"
+        categories="['Blue and Black', 'White and Gold']"
+        header="Identify what colors you percieve the item in the image to be."
+        name="color">
+        <short-instructions>
+            <p>Read the task carefully and inspect the image.</p>
+            <p>Choose the appropriate label that best suits the image.</p>
+        </short-instructions>
+        <full-instructions header="Classification Instructions">
+            <p>Read the task carefully and inspect the image.</p>
+            <p>Choose the appropriate label that best suits the image.</p>
+        </full-instructions>
+
+    </crowd-image-classifier>
+</crowd-form>
+
+
