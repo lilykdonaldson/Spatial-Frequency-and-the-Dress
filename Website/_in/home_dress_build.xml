@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>      
+<channel>
+    <title>SPRI Lab</title>
+    <link>https://sprilab.com</link>
+    <description>Sensation, Perception, Reality, and Illusion Lab</description>
+    <pubDate>Mon, 09 Dec 2019 04:10:33 +0000</pubDate>
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>https://sprilab.com</wp:base_site_url>
+    <wp:base_blog_url>https://sprilab.com</wp:base_blog_url>
+    	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[lilykdonaldson]]></wp:author_login><wp:author_email><![CDATA[lilykdonaldson@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[lilykdonaldson]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+        <item>
+            <title>
+                Home
+            </title>
+            <link>https://sprilab.com/</link>
+            <pubDate>Fri, 06 Dec 2019 23:32:10 +0000</pubDate>
+            <dc:creator><![CDATA[lilykdonaldson]]></dc:creator>
+            <guid isPermaLink="false">https://sprilab.com/?page_id=6</guid>
+		    <description></description>
+		    <content:encoded><![CDATA[[et_pb_section fb_built="1" admin_label="Hero" _builder_version="3.22" min_height="642px"][et_pb_row column_structure="3_5,2_5" make_equal="on" _builder_version="3.25" background_size="initial" background_position="top_left" background_repeat="repeat"][et_pb_column type="3_5" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||"][et_pb_text _builder_version="3.27.4" text_font="Lato||||||||" text_font_size="20px" text_line_height="1.8em" header_font="Oswald|300|||||||" header_font_size="54px" header_line_height="1.3em" header_6_font="Lato|700||on|||||" header_6_text_color="#ff6e77" header_6_line_height="1.8em" custom_margin="|-18px||||" custom_padding="|||" custom_padding_phone="30px||30px||true" custom_padding_last_edited="off|desktop" header_font_size_tablet="" header_font_size_phone="36px" header_font_size_last_edited="on|phone"]<h6>SENSATION, PERCEPTION, REALITY, AND ILLUSION LAB</h6>
+<h1>SPRI Lab <span style="color: #ff6e77;">at the American University in Washington, DC</span></h1>
+<p>The SPRI Lab focuses on the areas of visual perception and neuroscience, and topics related to color perception, motion, visual camouflage, and low-light-level vision.</p>[/et_pb_text][et_pb_button button_url="mailto:arthur.shapiro@american.edu" button_text="Email Us" _builder_version="4.0.7" custom_button="on" button_text_size="13px" button_bg_color="#ff6e77" button_bg_use_color_gradient="on" button_bg_color_gradient_start="#ff6c6e" button_bg_color_gradient_end="#ff7494" button_bg_color_gradient_direction="90deg" button_border_width="0px" button_border_color="#ff6e77" button_border_radius="50px" button_letter_spacing="1px" button_font="Poppins|500||on|||||" button_icon="%%3%%" background_layout="dark" custom_margin="|||" custom_padding="16px|36px|16px|36px|true|true" button_text_size__hover_enabled="off" button_one_text_size__hover_enabled="off" button_two_text_size__hover_enabled="off" button_text_color__hover_enabled="off" button_one_text_color__hover_enabled="off" button_two_text_color__hover_enabled="off" button_border_width__hover_enabled="off" button_one_border_width__hover_enabled="off" button_two_border_width__hover_enabled="off" button_border_color__hover_enabled="off" button_one_border_color__hover_enabled="off" button_two_border_color__hover_enabled="off" button_border_radius__hover_enabled="off" button_one_border_radius__hover_enabled="off" button_two_border_radius__hover_enabled="off" button_letter_spacing__hover_enabled="off" button_one_letter_spacing__hover_enabled="off" button_two_letter_spacing__hover_enabled="off" button_bg_color__hover_enabled="off" button_one_bg_color__hover_enabled="off" button_two_bg_color__hover_enabled="off"][/et_pb_button][/et_pb_column][et_pb_column type="2_5" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||"][et_pb_image src="https://sprilab.com/wp-content/uploads/2019/12/wabbit-home.png" force_fullwidth="on" align_tablet="center" align_phone="" align_last_edited="on|desktop" _builder_version="4.0.7" animation_style="fade" hover_enabled="0" custom_padding="|||0px||" transform_scale="121%|121%"][/et_pb_image][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_3,1_3,1_3" _builder_version="3.25" background_color="#ff6e77" use_background_color_gradient="on" background_color_gradient_start="#ff6c6e" background_color_gradient_end="#ff7494" background_color_gradient_direction="90deg" custom_margin="40px|||" custom_padding="40px|40px|40px|40px|true|true" animation_style="flip" animation_intensity_flip="20%" locked="off"][et_pb_column type="1_3" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||"][et_pb_blurb title="Psychology and" use_icon="on" font_icon="%%258%%" icon_color="#ffffff" icon_placement="left" use_icon_font_size="on" icon_font_size="40px" _builder_version="4.0.7" header_font="Lato|700||on|||||" header_font_size="10px" header_letter_spacing="1px" header_line_height="1.4em" body_font="Lato|700|||||||" body_font_size="20px" body_line_height="0.8em" background_layout="dark" custom_margin_tablet="||40px|" custom_margin_phone="" custom_margin_last_edited="on|tablet" animation="off"]<p>Neuroscience</p>[/et_pb_blurb][/et_pb_column][et_pb_column type="1_3" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||"][et_pb_blurb title="Computer Vision and" use_icon="on" font_icon="%%159%%" icon_color="#ffffff" icon_placement="left" use_icon_font_size="on" icon_font_size="40px" _builder_version="4.0.7" header_font="Lato|700||on|||||" header_font_size="10px" header_letter_spacing="1px" header_line_height="1.4em" body_font="Lato|700|||||||" body_font_size="20px" body_line_height="0.8em" background_layout="dark" custom_margin_tablet="||40px|" custom_margin_phone="" custom_margin_last_edited="on|tablet" animation="off" locked="off"]<p>Computer Science</p>[/et_pb_blurb][/et_pb_column][et_pb_column type="1_3" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||"][et_pb_blurb title="Lighting and" use_icon="on" font_icon="%%101%%" icon_color="#ffffff" icon_placement="left" use_icon_font_size="on" icon_font_size="40px" _builder_version="4.0.7" header_font="Lato|700||on|||||" header_font_size="10px" header_letter_spacing="1px" header_line_height="1.4em" body_font="Lato|700|||||||" body_font_size="20px" body_line_height="0.8em" background_layout="dark" custom_margin_tablet="||40px|" custom_margin_phone="" custom_margin_last_edited="on|tablet" animation="off" locked="off"]<p>Color Science </p>[/et_pb_blurb][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_4,1_4,1_4,1_4" _builder_version="4.0.7" custom_margin="75px|auto||auto||"][et_pb_column type="1_4" _builder_version="4.0.7"][et_pb_image src="https://sprilab.com/wp-content/uploads/2019/12/wabbit-party.png" _builder_version="4.0.7" hover_enabled="0"][/et_pb_image][et_pb_button button_url="mailto:arthur.shapiro@american.edu" button_text="Creative Coding" button_alignment="center" _builder_version="4.0.7" custom_button="on" button_text_size="13px" button_bg_color="#ff6e77" button_bg_use_color_gradient="on" button_bg_color_gradient_start="#ff6c6e" button_bg_color_gradient_end="#ff7494" button_bg_color_gradient_direction="90deg" button_border_width="0px" button_border_color="#ff6e77" button_border_radius="50px" button_letter_spacing="1px" button_font="Poppins|500||on|||||" button_icon="%%3%%" background_layout="dark" custom_margin="|||" custom_padding="16px|36px|16px|36px|true|true" button_text_size__hover_enabled="off" button_one_text_size__hover_enabled="off" button_two_text_size__hover_enabled="off" button_text_color__hover_enabled="off" button_one_text_color__hover_enabled="off" button_two_text_color__hover_enabled="off" button_border_width__hover_enabled="off" button_one_border_width__hover_enabled="off" button_two_border_width__hover_enabled="off" button_border_color__hover_enabled="off" button_one_border_color__hover_enabled="off" button_two_border_color__hover_enabled="off" button_border_radius__hover_enabled="off" button_one_border_radius__hover_enabled="off" button_two_border_radius__hover_enabled="off" button_letter_spacing__hover_enabled="off" button_one_letter_spacing__hover_enabled="off" button_two_letter_spacing__hover_enabled="off" button_bg_color__hover_enabled="off" button_one_bg_color__hover_enabled="off" button_two_bg_color__hover_enabled="off"][/et_pb_button][/et_pb_column][et_pb_column type="1_4" _builder_version="4.0.7"][et_pb_image src="https://sprilab.com/wp-content/uploads/2019/12/wabbit-dress.png" _builder_version="4.0.7" hover_enabled="0"][/et_pb_image][et_pb_button button_url="/the-dress" button_text="The Dress" button_alignment="center" _builder_version="4.0.7" custom_button="on" button_text_size="13px" button_bg_color="#ff6e77" button_bg_use_color_gradient="on" button_bg_color_gradient_start="#ff6c6e" button_bg_color_gradient_end="#ff7494" button_bg_color_gradient_direction="90deg" button_border_width="0px" button_border_color="#ff6e77" button_border_radius="50px" button_letter_spacing="1px" button_font="Poppins|500||on|||||" button_icon="%%3%%" background_layout="dark" custom_margin="|||" custom_padding="16px|36px|16px|36px|true|true" hover_enabled="0" button_text_size__hover_enabled="off" button_one_text_size__hover_enabled="off" button_two_text_size__hover_enabled="off" button_text_color__hover_enabled="off" button_one_text_color__hover_enabled="off" button_two_text_color__hover_enabled="off" button_border_width__hover_enabled="off" button_one_border_width__hover_enabled="off" button_two_border_width__hover_enabled="off" button_border_color__hover_enabled="off" button_one_border_color__hover_enabled="off" button_two_border_color__hover_enabled="off" button_border_radius__hover_enabled="off" button_one_border_radius__hover_enabled="off" button_two_border_radius__hover_enabled="off" button_letter_spacing__hover_enabled="off" button_one_letter_spacing__hover_enabled="off" button_two_letter_spacing__hover_enabled="off" button_bg_color__hover_enabled="off" button_one_bg_color__hover_enabled="off" button_two_bg_color__hover_enabled="off"][/et_pb_button][/et_pb_column][et_pb_column type="1_4" _builder_version="4.0.7"][et_pb_image src="https://sprilab.com/wp-content/uploads/2019/12/wabbitVR.png" _builder_version="4.0.7" hover_enabled="0"][/et_pb_image][et_pb_button button_url="mailto:arthur.shapiro@american.edu" button_text="Virtual Reality" button_alignment="center" _builder_version="4.0.7" custom_button="on" button_text_size="13px" button_bg_color="#ff6e77" button_bg_use_color_gradient="on" button_bg_color_gradient_start="#ff6c6e" button_bg_color_gradient_end="#ff7494" button_bg_color_gradient_direction="90deg" button_border_width="0px" button_border_color="#ff6e77" button_border_radius="50px" button_letter_spacing="1px" button_font="Poppins|500||on|||||" button_icon="%%3%%" background_layout="dark" custom_margin="|||" custom_padding="16px|36px|16px|36px|true|true" button_text_size__hover_enabled="off" button_one_text_size__hover_enabled="off" button_two_text_size__hover_enabled="off" button_text_color__hover_enabled="off" button_one_text_color__hover_enabled="off" button_two_text_color__hover_enabled="off" button_border_width__hover_enabled="off" button_one_border_width__hover_enabled="off" button_two_border_width__hover_enabled="off" button_border_color__hover_enabled="off" button_one_border_color__hover_enabled="off" button_two_border_color__hover_enabled="off" button_border_radius__hover_enabled="off" button_one_border_radius__hover_enabled="off" button_two_border_radius__hover_enabled="off" button_letter_spacing__hover_enabled="off" button_one_letter_spacing__hover_enabled="off" button_two_letter_spacing__hover_enabled="off" button_bg_color__hover_enabled="off" button_one_bg_color__hover_enabled="off" button_two_bg_color__hover_enabled="off"][/et_pb_button][/et_pb_column][et_pb_column type="1_4" _builder_version="4.0.7"][et_pb_image src="https://sprilab.com/wp-content/uploads/2019/12/wabbit-pulfrich.png" _builder_version="4.0.7" hover_enabled="0"][/et_pb_image][et_pb_button button_url="mailto:arthur.shapiro@american.edu" button_text="The Pulfrich Effect" button_alignment="center" _builder_version="4.0.7" custom_button="on" button_text_size="13px" button_bg_color="#ff6e77" button_bg_use_color_gradient="on" button_bg_color_gradient_start="#ff6c6e" button_bg_color_gradient_end="#ff7494" button_bg_color_gradient_direction="90deg" button_border_width="0px" button_border_color="#ff6e77" button_border_radius="50px" button_letter_spacing="1px" button_font="Poppins|500||on|||||" button_icon="%%3%%" background_layout="dark" custom_margin="|||" custom_padding="16px|36px|16px|36px|true|true" button_text_size__hover_enabled="off" button_one_text_size__hover_enabled="off" button_two_text_size__hover_enabled="off" button_text_color__hover_enabled="off" button_one_text_color__hover_enabled="off" button_two_text_color__hover_enabled="off" button_border_width__hover_enabled="off" button_one_border_width__hover_enabled="off" button_two_border_width__hover_enabled="off" button_border_color__hover_enabled="off" button_one_border_color__hover_enabled="off" button_two_border_color__hover_enabled="off" button_border_radius__hover_enabled="off" button_one_border_radius__hover_enabled="off" button_two_border_radius__hover_enabled="off" button_letter_spacing__hover_enabled="off" button_one_letter_spacing__hover_enabled="off" button_two_letter_spacing__hover_enabled="off" button_bg_color__hover_enabled="off" button_one_bg_color__hover_enabled="off" button_two_bg_color__hover_enabled="off"][/et_pb_button][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built="1" admin_label="About Me" _builder_version="3.22" background_color="#353959" custom_padding="1px||1px||true|"][et_pb_row column_structure="1_2,1_2" _builder_version="3.25" min_height="694px" locked="off"][et_pb_column type="1_2" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||"][et_pb_image src="https://sprilab.com/wp-content/uploads/2019/12/Art-Shapiro-throwing-baseball.png" align_tablet="center" align_phone="" align_last_edited="on|desktop" _builder_version="4.0.7" min_height="628px" custom_margin="||11px|||" custom_padding="||4px|||" animation_style="slide" animation_direction="right" animation_intensity_slide="4%"][/et_pb_image][/et_pb_column][et_pb_column type="1_2" _builder_version="3.25" custom_padding="60px|||" custom_padding_tablet="0px|||" custom_padding_phone="" custom_padding_last_edited="on|tablet" padding_tablet="0px|||" padding_last_edited="on|tablet" custom_padding__hover="|||"][et_pb_text _builder_version="3.27.4" text_font="Lato||||||||" text_font_size="20px" text_line_height="1.8em" header_font="Oswald|300|||||||" header_font_size="64px" header_line_height="1.3em" header_2_font="Lato|700||on|||||" header_2_text_color="#ff6e77" header_2_line_height="1.8em" header_3_font="||||||||" header_4_font="||||||||" header_5_font="||||||||" header_6_font="||||||||" background_layout="dark" max_width="700px" custom_margin="||||true" custom_padding="|||" custom_padding_phone="|||" custom_padding_last_edited="off|desktop" header_font_size_tablet="" header_font_size_phone="42px" header_font_size_last_edited="on|phone" locked="off"]<h2>Dr. Arthur Shapiro</h2>
+<p>Dr. Shapiro is a Professor of Psychology and Computer Science at American University in Washington, D.C. He specializes in the areas of visual perception and neuroscience, and works on topics related to color perception, motion, visual camouflage, and low-light-level vision. He is best known for creating visual illusions that serve to elucidate the connections between perception, the brain, and the physical world.</p>[/et_pb_text][et_pb_button button_text="More About Art" button_alignment="left" _builder_version="4.0.7" custom_button="on" button_text_size="13px" button_bg_color="#ff6e77" button_bg_use_color_gradient="on" button_bg_color_gradient_start="#ff6c6e" button_bg_color_gradient_end="#ff7494" button_bg_color_gradient_direction="90deg" button_border_width="0px" button_border_color="#ff6e77" button_border_radius="50px" button_letter_spacing="1px" button_font="Poppins|500||on|||||" button_icon="%%3%%" background_layout="dark" custom_margin="||28px|||" custom_padding="16px|36px|16px|36px|true|true" locked="off" button_text_size__hover_enabled="off" button_one_text_size__hover_enabled="off" button_two_text_size__hover_enabled="off" button_text_color__hover_enabled="off" button_one_text_color__hover_enabled="off" button_two_text_color__hover_enabled="off" button_border_width__hover_enabled="off" button_one_border_width__hover_enabled="off" button_two_border_width__hover_enabled="off" button_border_color__hover_enabled="off" button_one_border_color__hover_enabled="off" button_two_border_color__hover_enabled="off" button_border_radius__hover_enabled="off" button_one_border_radius__hover_enabled="off" button_two_border_radius__hover_enabled="off" button_letter_spacing__hover_enabled="off" button_one_letter_spacing__hover_enabled="off" button_two_letter_spacing__hover_enabled="off" button_bg_color__hover_enabled="off" button_one_bg_color__hover_enabled="off" button_two_bg_color__hover_enabled="off"][/et_pb_button][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built="1" admin_label="Portfolio" _builder_version="3.22" custom_margin="-40px|||||" custom_padding="1px|||||"][et_pb_row _builder_version="4.0.7" min_height="66px" custom_padding="39px||0px|||"][et_pb_column type="4_4" _builder_version="4.0.7"][et_pb_text _builder_version="4.0.7" text_font="Lato||||||||" text_font_size="20px" text_line_height="1.8em" header_font="Oswald|300|||||||" header_font_size="64px" header_line_height="1.3em" header_2_font="Lato|700||on|||||" header_2_text_color="#ff6e77" header_2_line_height="1.8em" header_3_font="||||||||" header_4_font="||||||||" header_5_font="||||||||" header_6_font="||||||||" background_layout="dark" max_width="1161px" min_height="51px" custom_margin="||||true" custom_padding="||4px|||" custom_padding_phone="|||" custom_padding_last_edited="off|desktop" header_font_size_tablet="" header_font_size_phone="42px" header_font_size_last_edited="on|phone" locked="off"]<h2 style="text-align: center;"><span style="font-size: xx-large;">Illusions</span></h2>[/et_pb_text][/et_pb_column][/et_pb_row][et_pb_row column_structure="1_2,1_2" use_custom_gutter="on" gutter_width="4" make_equal="on" _builder_version="3.25" custom_padding="2px|||||"][et_pb_column type="1_2" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||"][et_pb_code _builder_version="4.0.7"]<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The perptual diamond: The diamond remains fixed in one place but appears to move up, down, left, or, right. See how far away you can be from your screen before the effect goes away. From <a href="https://t.co/XRFKTtjOfm">https://t.co/XRFKTtjOfm</a> <a href="https://t.co/af7BOUCvfC">pic.twitter.com/af7BOUCvfC</a></p>— Arthur Shapiro (@agshapiro2) <a href="https://twitter.com/agshapiro2/status/1135286867182706688?ref_src=twsrc%5Etfw">June 2, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>[/et_pb_code][et_pb_code _builder_version="4.0.7"][/et_pb_code][/et_pb_column][et_pb_column type="1_2" _builder_version="3.25" custom_padding="|||" custom_padding_tablet="|||" custom_padding_last_edited="off|desktop" padding_tablet="|||" padding_last_edited="off|desktop" custom_padding__hover="|||"][et_pb_code _builder_version="4.0.7"]<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Emergent Spirals. Each dot moves clockwise at a constant speed. Patterns emerge from the relationships among dots, not from the action of any individual dot. <a href="https://twitter.com/hashtag/GestaltPerception?src=hash&ref_src=twsrc%5Etfw">#GestaltPerception</a> <a href="https://twitter.com/hashtag/CurbYourIndividualism?src=hash&ref_src=twsrc%5Etfw">#CurbYourIndividualism</a> <a href="https://t.co/hCXKviTiJv">pic.twitter.com/hCXKviTiJv</a></p>— Arthur Shapiro (@agshapiro2) <a href="https://twitter.com/agshapiro2/status/1158445885048668160?ref_src=twsrc%5Etfw">August 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>[/et_pb_code][/et_pb_column][/et_pb_row][et_pb_row column_structure="3_4,1_4" _builder_version="4.0.7"][et_pb_column type="3_4" _builder_version="4.0.7"][et_pb_text _builder_version="4.0.7"][pp-shortcode id="31" width="900" height="600"][/et_pb_text][/et_pb_column][et_pb_column type="1_4" _builder_version="4.0.7"][et_pb_image src="https://sprilab.com/wp-content/uploads/2019/12/oxford-compendium-of-visual-illusions.jpg" align="center" _builder_version="4.0.7"][/et_pb_image][et_pb_text _builder_version="4.0.7"]<p>The Oxford Compendium of Visual Illusions is a collection of over one hundred chapters about illusions, displayed and discussed by the researchers who invented and conducted research on the illusions. Chapters include full-color images, associated videos, and extensive references.</p>[/et_pb_text][et_pb_button button_text="Read More" button_alignment="center" _builder_version="4.0.7" custom_button="on" button_text_size="13px" button_bg_color="#ff6e77" button_bg_use_color_gradient="on" button_bg_color_gradient_start="#e5d70c" button_bg_color_gradient_end="#e0ae0b" button_bg_color_gradient_direction="90deg" button_border_width="0px" button_border_color="#ff6e77" button_border_radius="50px" button_letter_spacing="1px" button_font="Poppins|500||on|||||" button_icon="%%3%%" background_layout="dark" custom_margin="|||" custom_padding="16px|36px|16px|36px|true|true" locked="off" button_text_size__hover_enabled="off" button_one_text_size__hover_enabled="off" button_two_text_size__hover_enabled="off" button_text_color__hover_enabled="off" button_one_text_color__hover_enabled="off" button_two_text_color__hover_enabled="off" button_border_width__hover_enabled="off" button_one_border_width__hover_enabled="off" button_two_border_width__hover_enabled="off" button_border_color__hover_enabled="off" button_one_border_color__hover_enabled="off" button_two_border_color__hover_enabled="off" button_border_radius__hover_enabled="off" button_one_border_radius__hover_enabled="off" button_two_border_radius__hover_enabled="off" button_letter_spacing__hover_enabled="off" button_one_letter_spacing__hover_enabled="off" button_two_letter_spacing__hover_enabled="off" button_bg_color__hover_enabled="off" button_one_bg_color__hover_enabled="off" button_two_bg_color__hover_enabled="off"][/et_pb_button][/et_pb_column][/et_pb_row][et_pb_row _builder_version="3.25"][et_pb_column type="4_4" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||"][et_pb_button button_text="View All Illusions" button_alignment="center" _builder_version="4.0.7" custom_button="on" button_text_size="13px" button_bg_color="#ff6e77" button_bg_use_color_gradient="on" button_bg_color_gradient_start="#ff6c6e" button_bg_color_gradient_end="#ff7494" button_bg_color_gradient_direction="90deg" button_border_width="0px" button_border_color="#ff6e77" button_border_radius="50px" button_letter_spacing="1px" button_font="Poppins|500||on|||||" button_icon="%%3%%" background_layout="dark" custom_margin="|||" custom_padding="16px|36px|16px|36px|true|true" locked="off" button_text_size__hover_enabled="off" button_one_text_size__hover_enabled="off" button_two_text_size__hover_enabled="off" button_text_color__hover_enabled="off" button_one_text_color__hover_enabled="off" button_two_text_color__hover_enabled="off" button_border_width__hover_enabled="off" button_one_border_width__hover_enabled="off" button_two_border_width__hover_enabled="off" button_border_color__hover_enabled="off" button_one_border_color__hover_enabled="off" button_two_border_color__hover_enabled="off" button_border_radius__hover_enabled="off" button_one_border_radius__hover_enabled="off" button_two_border_radius__hover_enabled="off" button_letter_spacing__hover_enabled="off" button_one_letter_spacing__hover_enabled="off" button_two_letter_spacing__hover_enabled="off" button_bg_color__hover_enabled="off" button_one_bg_color__hover_enabled="off" button_two_bg_color__hover_enabled="off"][/et_pb_button][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built="1" specialty="on" custom_padding_last_edited="off|desktop" admin_label="Footer" _builder_version="3.22" use_background_color_gradient="on" background_color_gradient_start="#ff6c6e" background_color_gradient_end="#ff7494" background_color_gradient_direction="90deg" custom_margin="-2px|||||" custom_padding="|||" custom_padding_phone="50px||50px||true" saved_tabs="all"][et_pb_column type="1_2" specialty_columns="2" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||"][et_pb_row_inner make_equal="on" _builder_version="3.25"][et_pb_column_inner saved_specialty_column_type="1_2" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||"][et_pb_text admin_label="Title" _builder_version="4.0.7" text_font="||||||||" header_font="||||||||" header_2_font="Oswald|300|||||||" header_2_font_size="52px" header_2_letter_spacing="1px" header_2_line_height="1.3em" header_6_font="Lato|700||on|||||" header_6_line_height="1.8em" background_layout="dark" custom_margin="|||" custom_padding="|||" header_2_font_size_tablet="" header_2_font_size_phone="36px" header_2_font_size_last_edited="on|phone" locked="off"]<h6>Get In Touch</h6>
+<h2>CONTACT SPRI LAB</h2>[/et_pb_text][/et_pb_column_inner][/et_pb_row_inner][et_pb_row_inner column_structure="1_2,1_2" _builder_version="3.25" custom_padding="|||"][et_pb_column_inner type="1_2" saved_specialty_column_type="1_2" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||"][et_pb_blurb title="Email" use_icon="on" font_icon="%%238%%" icon_color="#ffffff" icon_placement="left" use_icon_font_size="on" icon_font_size="16px" _builder_version="4.0.7" header_font="Lato|700||on|||||" header_font_size="13px" header_line_height="1.2em" body_font="Lato||||||||" body_font_size="16px" background_layout="dark" animation="off"]sprilab@gmail.com
+arthur.shapiro@american.edu[/et_pb_blurb][et_pb_blurb title="Phone" use_icon="on" font_icon="%%264%%" icon_color="#ffffff" icon_placement="left" use_icon_font_size="on" icon_font_size="16px" _builder_version="4.0.7" header_font="Lato|700||on|||||" header_font_size="13px" header_line_height="1.2em" body_font="Lato||||||||" body_font_size="16px" background_layout="dark" animation="off" locked="off"]<p>(202) 885-2011</p>[/et_pb_blurb][/et_pb_column_inner][et_pb_column_inner type="1_2" saved_specialty_column_type="1_2" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||"][et_pb_blurb title="Address" use_icon="on" font_icon="%%249%%" icon_color="#ffffff" icon_placement="left" use_icon_font_size="on" icon_font_size="16px" _builder_version="3.6" header_font="Lato|700||on|||||" header_font_size="13px" header_line_height="1.2em" body_font="Lato||||||||" body_font_size="16px" background_layout="dark" custom_margin="|||-25px||" animation="off" locked="off"]<p>Don Myers Technology and Innovation Building 202</p>
+<p>3501 Nebraska Ave NW, Washington, DC 20016</p>[/et_pb_blurb][/et_pb_column_inner][/et_pb_row_inner][et_pb_row_inner _builder_version="3.25" custom_margin="30px|||" custom_padding="25px|0px|15px|0px|false|false" border_width_all="1px" border_color_all="rgba(255,255,255,0.2)" border_width_right="0px" border_width_left="0px"][et_pb_column_inner saved_specialty_column_type="1_2" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||"][et_pb_social_media_follow _builder_version="4.0.7" text_orientation="center" custom_margin="|20px|0px|20px|false|true"][et_pb_social_media_follow_network social_network="instagram" _builder_version="3.6" custom_margin="|20px||20px|false|true" follow_button="off" url_new_window="on"]instagram[/et_pb_social_media_follow_network][et_pb_social_media_follow_network social_network="twitter" _builder_version="4.0.7" background_color="rgba(0,0,0,0)" background_enable_color="on" custom_margin="|20px||20px|false|true" follow_button="off" url_new_window="on"]twitter[/et_pb_social_media_follow_network][et_pb_social_media_follow_network social_network="rss" _builder_version="4.0.7" background_color="rgba(0,0,0,0)" background_enable_color="on" follow_button="off" url_new_window="on"]rss[/et_pb_social_media_follow_network][/et_pb_social_media_follow][/et_pb_column_inner][/et_pb_row_inner][/et_pb_column][et_pb_column type="1_2" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||"][et_pb_contact_form captcha="off" submit_button_text="Send Message" module_id="et_pb_contact_form_0" _builder_version="3.23" form_field_background_color="#ffffff" form_field_text_color="rgba(0,0,0,0.3)" form_field_font="||||||||" background_color="#ffffff" custom_button="on" button_text_size="13px" button_text_color="#ffffff" button_bg_color="#1e1e1e" button_border_width="12px" button_border_color="#1e1e1e" button_border_radius="50px" button_letter_spacing="1px" button_font="Poppins|500||on|||||" button_icon="%%3%%" custom_padding="60px|50px|60px|50px|true|true" animation_style="flip" animation_intensity_flip="20%" border_width_all="1px" border_color_all="#e1e1e1" box_shadow_style_button="preset3" box_shadow_vertical_button="24px" box_shadow_blur_button="48px" box_shadow_color_button="rgba(0,0,0,0.2)" form_background_color="#ffffff"][et_pb_contact_field field_id="Name" field_title="Name" fullwidth_field="on" _builder_version="3.16" custom_margin="||20px|" button_text_size__hover_enabled="off" button_one_text_size__hover_enabled="off" button_two_text_size__hover_enabled="off" button_text_color__hover_enabled="off" button_one_text_color__hover_enabled="off" button_two_text_color__hover_enabled="off" button_border_width__hover_enabled="off" button_one_border_width__hover_enabled="off" button_two_border_width__hover_enabled="off" button_border_color__hover_enabled="off" button_one_border_color__hover_enabled="off" button_two_border_color__hover_enabled="off" button_border_radius__hover_enabled="off" button_one_border_radius__hover_enabled="off" button_two_border_radius__hover_enabled="off" button_letter_spacing__hover_enabled="off" button_one_letter_spacing__hover_enabled="off" button_two_letter_spacing__hover_enabled="off" button_bg_color__hover_enabled="off" button_one_bg_color__hover_enabled="off" button_two_bg_color__hover_enabled="off"][/et_pb_contact_field][et_pb_contact_field field_id="Email" field_title="Email Address" field_type="email" fullwidth_field="on" _builder_version="3.16" custom_margin="||20px|" button_text_size__hover_enabled="off" button_one_text_size__hover_enabled="off" button_two_text_size__hover_enabled="off" button_text_color__hover_enabled="off" button_one_text_color__hover_enabled="off" button_two_text_color__hover_enabled="off" button_border_width__hover_enabled="off" button_one_border_width__hover_enabled="off" button_two_border_width__hover_enabled="off" button_border_color__hover_enabled="off" button_one_border_color__hover_enabled="off" button_two_border_color__hover_enabled="off" button_border_radius__hover_enabled="off" button_one_border_radius__hover_enabled="off" button_two_border_radius__hover_enabled="off" button_letter_spacing__hover_enabled="off" button_one_letter_spacing__hover_enabled="off" button_two_letter_spacing__hover_enabled="off" button_bg_color__hover_enabled="off" button_one_bg_color__hover_enabled="off" button_two_bg_color__hover_enabled="off"][/et_pb_contact_field][et_pb_contact_field field_id="Subject" field_title="Subject" field_type="select" select_options="%91{%22value%22:%22Illustration%22,%22checked%22:0,%22dragID%22:-1},{%22value%22:%22Graphic Design%22,%22checked%22:0,%22dragID%22:0},{%22value%22:%22Branding Us%22,%22checked%22:0,%22dragID%22:1}%93" fullwidth_field="on" _builder_version="3.16" custom_margin="||20px|" button_text_size__hover_enabled="off" button_one_text_size__hover_enabled="off" button_two_text_size__hover_enabled="off" button_text_color__hover_enabled="off" button_one_text_color__hover_enabled="off" button_two_text_color__hover_enabled="off" button_border_width__hover_enabled="off" button_one_border_width__hover_enabled="off" button_two_border_width__hover_enabled="off" button_border_color__hover_enabled="off" button_one_border_color__hover_enabled="off" button_two_border_color__hover_enabled="off" button_border_radius__hover_enabled="off" button_one_border_radius__hover_enabled="off" button_two_border_radius__hover_enabled="off" button_letter_spacing__hover_enabled="off" button_one_letter_spacing__hover_enabled="off" button_two_letter_spacing__hover_enabled="off" button_bg_color__hover_enabled="off" button_one_bg_color__hover_enabled="off" button_two_bg_color__hover_enabled="off"][/et_pb_contact_field][et_pb_contact_field field_id="Message" field_title="Message" field_type="text" fullwidth_field="on" _builder_version="3.16" custom_margin="||20px|" button_text_size__hover_enabled="off" button_one_text_size__hover_enabled="off" button_two_text_size__hover_enabled="off" button_text_color__hover_enabled="off" button_one_text_color__hover_enabled="off" button_two_text_color__hover_enabled="off" button_border_width__hover_enabled="off" button_one_border_width__hover_enabled="off" button_two_border_width__hover_enabled="off" button_border_color__hover_enabled="off" button_one_border_color__hover_enabled="off" button_two_border_color__hover_enabled="off" button_border_radius__hover_enabled="off" button_one_border_radius__hover_enabled="off" button_two_border_radius__hover_enabled="off" button_letter_spacing__hover_enabled="off" button_one_letter_spacing__hover_enabled="off" button_two_letter_spacing__hover_enabled="off" button_bg_color__hover_enabled="off" button_one_bg_color__hover_enabled="off" button_two_bg_color__hover_enabled="off"][/et_pb_contact_field][/et_pb_contact_form][/et_pb_column][/et_pb_section]]]> </content:encoded>
+		    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		    <wp:post_id>6</wp:post_id>
+		    <wp:post_date><![CDATA[2019-12-06 23:32:10]]></wp:post_date>
+		    <wp:post_date_gmt><![CDATA[2019-12-06 23:32:10]]></wp:post_date_gmt>
+		    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		    <wp:post_name><![CDATA[home]]></wp:post_name>
+		    <wp:status><![CDATA[publish]]></wp:status>
+		    <wp:post_parent>0</wp:post_parent>
+		    <wp:menu_order>0</wp:menu_order>
+		    <wp:post_type><![CDATA[page]]></wp:post_type>
+		    <wp:post_password><![CDATA[]]></wp:post_password>
+		    <wp:is_sticky>0</wp:is_sticky>
+		    
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_use_builder]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[on]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_edit_lock]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[1575676016:1]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[1]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_post_hide_nav]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[default]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_page_layout]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[et_right_sidebar]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_side_nav]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[off]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[default]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_old_content]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[<!-- wp:divi/placeholder /-->]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_built_for_post_type]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[page]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_ab_subjects]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_enable_shortcode_tracking]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_ab_current_shortcode]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[[et_pb_split_track id="6" /]]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_custom_css]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_gutter_width]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[3]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_first_image]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_truncate_post]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_builder_version]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[VB|Divi|4.0.7]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_show_page_creation]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[off]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[et_enqueued_post_fonts]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[a:2:{s:6:"family";a:3:{s:10:"et-gf-lato";s:75:"Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic";s:12:"et-gf-oswald";s:34:"Oswald:200,300,regular,500,600,700";s:13:"et-gf-poppins";s:134:"Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic";}s:6:"subset";a:2:{i:0;s:5:"latin";i:1;s:9:"latin-ext";}}]]></wp:meta_value>
+		        </wp:postmeta>
+        </item>
+        <item>
+            <title>
+                The Dress
+            </title>
+            <link>https://sprilab.com/?page_id=48</link>
+            <pubDate>Sat, 07 Dec 2019 02:10:04 +0000</pubDate>
+            <dc:creator><![CDATA[lilykdonaldson]]></dc:creator>
+            <guid isPermaLink="false">https://sprilab.com/?page_id=48</guid>
+		    <description></description>
+		    <content:encoded><![CDATA[[et_pb_section fb_built="1" custom_padding_last_edited="off|desktop" admin_label="Hero" _builder_version="4.0.7" background_color="#737373" background_color_gradient_direction="90deg" custom_margin="||100px|" custom_padding="54px|0px|0|0px|false|false" custom_padding_phone="50px||50px||true" locked="off"][et_pb_row column_structure="1_3,2_3" _builder_version="3.25" background_size="initial" background_position="top_left" background_repeat="repeat" custom_padding="27px|0px|0|0px|false|false"][et_pb_column type="1_3" _builder_version="3.25" custom_padding="||40px|" custom_padding__hover="|||"][et_pb_text _builder_version="3.27.4" text_font="Lato||||||||" text_font_size="20px" text_line_height="1.8em" header_font="Oswald|300|||||||" header_font_size="64px" header_line_height="1.3em" header_2_font="||||||||" header_3_font="||||||||" header_4_font="||||||||" header_5_font="||||||||" header_6_font="Lato|700||on|||||" header_6_line_height="1.8em" background_layout="dark" max_width="700px" custom_margin="|-54px|||true|" custom_padding="|||" custom_padding_phone="|||" custom_padding_last_edited="off|desktop" header_font_size_tablet="" header_font_size_phone="42px" header_font_size_last_edited="on|phone"]<h6>project</h6>
+<h1><strong>Is 'the Dress' <span style="color: #000000;">Black and </span><span style="color: #0f43ff;">Blue</span> or White and <span style="color: #f4e861;">Gold?</span></strong></h1>
+<p>An exploration of spatial frequency and “The Dress”</p>[/et_pb_text][/et_pb_column][et_pb_column type="2_3" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||"][et_pb_image src="https://sprilab.com/wp-content/uploads/2019/12/wabbit-dress.png" force_fullwidth="on" align_tablet="center" align_phone="" align_last_edited="on|desktop" _builder_version="4.0.7" custom_margin="||-100px|62px||" custom_margin_tablet="" custom_margin_phone="" custom_margin_last_edited="on|tablet" animation_style="fade" locked="off"][/et_pb_image][/et_pb_column][/et_pb_row][/et_pb_section][et_pb_section fb_built="1" specialty="on" _builder_version="4.0.7"][et_pb_column type="1_3" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||"][et_pb_image src="https://sprilab.com/wp-content/uploads/2019/12/the-dress.png" align="right" _builder_version="4.0.7"][/et_pb_image][/et_pb_column][et_pb_column type="2_3" specialty_columns="2" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||"][et_pb_row_inner column_structure="1_2,1_2" _builder_version="4.0.7"][et_pb_column_inner type="1_2" saved_specialty_column_type="2_3" _builder_version="4.0.7"][et_pb_image src="https://sprilab.com/wp-content/uploads/2019/12/BB.png" _builder_version="4.0.7"][/et_pb_image][/et_pb_column_inner][et_pb_column_inner type="1_2" saved_specialty_column_type="2_3" _builder_version="4.0.7"][et_pb_image src="https://sprilab.com/wp-content/uploads/2019/12/WG.png" _builder_version="4.0.7"][/et_pb_image][/et_pb_column_inner][/et_pb_row_inner][et_pb_row_inner _builder_version="4.0.7" custom_margin="-51px|||||" custom_padding="||24px|||"][et_pb_column_inner saved_specialty_column_type="2_3" _builder_version="4.0.7"][et_pb_counters _builder_version="4.0.7" background_color="#ffd76a" custom_margin="14px||6px|||" hover_enabled="0" box_shadow_style="preset1"][et_pb_counter percent="46" bar_background_color="#011bff" _builder_version="4.0.7" background_color="#ffd76a" background_enable_color="on" hover_enabled="0" background_color_default="#ffd76a" background_enable_color_default="on" parallax_default="off" parallax_method_default="on" bar_background_color_default="#ff6e77" use_percentages="on" allow_player_pause_default="off"][/et_pb_counter][/et_pb_counters][et_pb_text _builder_version="4.0.7" text_font="|600|||||||" text_font_size="16px" hover_enabled="0"]<p>Of 100 subjects tested, 46% saw Black and Blue, and 49% saw White and Gold. (5% saw something else). Where do you fall?</p>[/et_pb_text][/et_pb_column_inner][/et_pb_row_inner][/et_pb_column][/et_pb_section][et_pb_section fb_built="1" admin_label="Sketching" _builder_version="3.22" custom_padding="|||"][et_pb_row _builder_version="4.0.7" custom_margin="-72px|auto||auto||"][et_pb_column type="4_4" _builder_version="4.0.7"][et_pb_text _builder_version="4.0.7" hover_enabled="0"]<p><span style="font-size: medium;">'The dress' was a phenomena swept the internet in 2015 in which some people saw the dress as blue and black and others saw it as white and yellow.</span></p>
+<p><span style="font-size: medium;"></span></p>
+<p><span style="font-size: medium;">There are a large number of interpretations about ‘the dress.’ Many of them assume that individual differences arise because of how people interpret the lighting. A different theory was proposed by Dixon and Shapiro (2016), in which individual differences in spatial frequency was the root cause.</span> </p>[/et_pb_text][et_pb_tabs _builder_version="4.0.7" hover_enabled="0" inactive_tab_background_color="#ccdbf9" active_tab_background_color="#f4f4f4"][et_pb_tab title="1: 'The Dress' Goes Viral" _builder_version="4.0.7" hover_enabled="0"]<p>In late February of 2015, a dimly lit, low quality picture of a striped dress was posted around the internet. It quickly went viral, as people could not agree on what color they saw the dress as. Some saw it as black and blue (the true color of the physical dress) and others saw it as white and gold. While most people fought with their friends and family playfully about what colors they saw or made memes and content surrounding the color confusion, the phenomena put vision scientists in the limelight. To this day, we cannot fully explain why 'the dress' has the effect that it does, but as vision scientists inch closer to the explanation, the field of vision science has been forever changed and restored of vitality because of 'the dress.'</p>
+<p>'The dress' is still material of popular culture: check out a recap of some of the content about the dress spread around the internet since 2015:</p>
+<ul>
+<li> Slate's first article on the dress in February 2015: <a href="https://slate.com/technology/2015/02/what-color-is-this-dress-a-scientist-explains-visual-ambiguity-and-color-constancy.html">"Lessons From the Dress"</a></li>
+<li>The author of the previous Slate article's 2017 followup: <a href="https://slate.com/technology/2017/04/heres-why-people-saw-the-dress-differently.html">"Two Years Later, We Finally Know Why People Saw “The Dress” Differently"</a></li>
+</ul>
+<p> <img src="https://compote.slate.com/images/efbff938-ef4a-450c-97af-5685f5fa8f18.gif" width="224" height="224" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;"><em>Gif by Slate</em></p>
+<ul>
+<li> Various memes: see <a href="https://knowyourmeme.com/memes/thedress-what-color-is-this-dress">Know Your Meme</a> for more info
+<p><img src="https://i.kym-cdn.com/photos/images/newsfeed/000/921/270/0f8.jpg" width="312" height="312" /><img src="https://i.kym-cdn.com/photos/images/newsfeed/000/921/187/d03.jpg" alt="LOOKS GRAY AND MORE GRAY TO ME The dress dog black and white dog like mammal dog breed monochrome photography snout photo caption" width="205" height="312" /></p>
+</li>
+<li>Salvation Army's Domestic Abuse Awareness campaign
+<p><img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/03/06/13/salvation%20army%20dress.jpg?w968h681" alt="Image result for the dress blue and black domestic violence" width="426" height="300" /></p>
+</li>
+<li>Various <a href="https://www.youtube.com/watch?v=tdThU28TL28">Youtube videos</a> on 'The Dress" and 'The Dress' costumes (including one worn by our lab neighbor, vision scientist Bei Xiao)
+<p><img src="https://i.ytimg.com/vi/tdThU28TL28/maxresdefault.jpg" width="409" height="230" /><img src="https://blogs.scientificamerican.com/blogs/assets/Image/bei.png" width="307" height="229" /></p>
+</li>
+</ul>[/et_pb_tab][et_pb_tab title="2: What do you see?" _builder_version="4.0.7" hover_enabled="0"]<p><img src="https://sprilab.com/wp-content/uploads/2019/12/the-dress.png" width="225" height="300" alt="'The Dress'" class="wp-image-66 alignnone size-full" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: center;">In the original 'the dress' image, do you see black and blue or white and gold? Or something else?</p>
+<p style="text-align: center;">'The dress' phenomena swept the nation and inspired even more contradicting instances. What do you see below?</p>
+<p style="text-align: center;"><img src="https://sprilab.com/wp-content/uploads/2019/12/pinkvans-300x168.jpeg" width="300" height="168" alt="" class="wp-image-100 alignnone size-medium" /></p>
+<p style="text-align: center;">Are these vans pink and white or teal and grey?</p>
+<p style="text-align: center;"><img src="https://i.kym-cdn.com/photos/images/newsfeed/000/991/886/a2c.jpg" alt="a @totallymendes Jul8 WHICH COLOR MATCHES THE SHOES THE BEST iew photo ☆ 8.5K The dress purple violet product nail" width="341" height="225" /></p>
+<p style="text-align: center;">Which purple nail polish goes with the shoe more?</p>
+<p style="text-align: center;"><img src="https://i.kym-cdn.com/photos/images/newsfeed/001/177/271/245.png" alt="Follow cors o @whyofcorso Everyone say hello to my new baby kat de The dress Handbag bag handbag white fashion accessory product" width="406" height="378" /></p>
+<p style="text-align: center;">Is this purse white or blue?</p>
+<p style="text-align: center;"><iframe width="420" height="236" src="https://www.youtube.com/embed/OF9J14ba3Hw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p style="text-align: center;">And finally, do you hear Yanny or Laurel?</p>
+[/et_pb_tab][et_pb_tab title="3: Color Constancy" _builder_version="4.0.7" hover_enabled="0"]<p>Your content goes here. </p>
+<p><img src="https://sprilab.com/wp-content/uploads/2019/12/color-constancy-300x298.png" width="300" height="298" alt="color constancy" class="wp-image-99 alignnone size-medium" /></p>
+<p>The color constancy hyptothesis asserts that our perception of the dress depends on our perception of the lighting and background in the image. If we manipulate the background and foreground lighting:</p>
+<p><img src="https://sprilab.com/wp-content/uploads/2019/12/cc-dress1-300x116.png" width="300" height="116" alt="color constancy" class="wp-image-95 alignnone size-medium" /></p>
+<p>or force the viewer to predict a specific color in the lighting:</p>
+<p><img src="https://sprilab.com/wp-content/uploads/2019/12/cc-dress2-300x148.png" width="300" height="148" alt="color constancy" class="wp-image-94 alignnone size-medium" /></p>
+<p>we can then manipulate how the viewer sees the colors of the dress.</p>
+[/et_pb_tab][et_pb_tab title="4: Spatial Frequency" _builder_version="4.0.7" hover_enabled="0"]<p>Spatial frequency describes the periodic distributions of light and dark in an image. The most common forms of image manipulation in the spatial frequency domain are high pass and low pass filters. High pass filters (bottom left) filter out low spatial frequencies in the image, while low pass filters (top right) filter out the high spatial frequencies. You can compare these examples to the original image (top left). You can associate high pass filters with 'edge detection' and low pass filters with 'blurring' the image.</p>
+<p><img src="https://sprilab.com/wp-content/uploads/2019/12/filtering-300x234.png" width="300" height="234" alt="" class="wp-image-98 alignnone size-medium" /></p>
+<p>Here, we test the hypothesis that manipulating the spatial frequency of the dress image will alter the viewer's perception of the dress' colors. In a survey of 100 people, we asked them to evaulate a few of these high passed images. You can look through the complete set of high passed images below; does your perception of the dress' colors change from image to image? Note that each column features a different illuminant.</p>
+<p><img src="https://sprilab.com/wp-content/uploads/2019/12/high-pass1-265x300.png" width="265" height="300" alt="" class="wp-image-97 alignnone size-medium" /><img src="https://sprilab.com/wp-content/uploads/2019/12/high-pass2-262x300.png" width="262" height="300" alt="" class="wp-image-96 alignnone size-medium" /></p>
+<p>&nbsp;</p>
+[/et_pb_tab][et_pb_tab title="5: The Future" _builder_version="4.0.7" hover_enabled="0"]<p>More research is still being done across the field of vision science on "The Dress," including right here at the SPRI Lab! Be on the lookout for more research and papers from us under Dr. Shapiro (who by the way, sees white and gold!)</p>[/et_pb_tab][/et_pb_tabs][/et_pb_column][/et_pb_row][/et_pb_section]]]> </content:encoded>
+		    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		    <wp:post_id>48</wp:post_id>
+		    <wp:post_date><![CDATA[2019-12-07 02:10:04]]></wp:post_date>
+		    <wp:post_date_gmt><![CDATA[2019-12-07 02:10:04]]></wp:post_date_gmt>
+		    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		    <wp:post_name><![CDATA[the-dress]]></wp:post_name>
+		    <wp:status><![CDATA[publish]]></wp:status>
+		    <wp:post_parent>0</wp:post_parent>
+		    <wp:menu_order>0</wp:menu_order>
+		    <wp:post_type><![CDATA[page]]></wp:post_type>
+		    <wp:post_password><![CDATA[]]></wp:post_password>
+		    <wp:is_sticky>0</wp:is_sticky>
+		    
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[1]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_edit_lock]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[1575684771:1]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[default]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_post_hide_nav]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[default]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_page_layout]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[et_right_sidebar]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_side_nav]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[off]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_use_builder]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[on]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_first_image]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_truncate_post]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_old_content]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_built_for_post_type]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[page]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_ab_subjects]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_enable_shortcode_tracking]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_ab_current_shortcode]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[[et_pb_split_track id="48" /]]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_custom_css]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_gutter_width]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[3]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_builder_version]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[VB|Divi|4.0.7]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_et_pb_show_page_creation]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[off]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[et_enqueued_post_fonts]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[a:2:{s:6:"family";a:2:{s:10:"et-gf-lato";s:75:"Lato:100,100italic,300,300italic,regular,italic,700,700italic,900,900italic";s:12:"et-gf-oswald";s:34:"Oswald:200,300,regular,500,600,700";}s:6:"subset";a:2:{i:0;s:5:"latin";i:1;s:9:"latin-ext";}}]]></wp:meta_value>
+		        </wp:postmeta>
+        </item>
+        <item>
+            <title>
+                the dress
+            </title>
+            <link>https://sprilab.com/?attachment_id=66</link>
+            <pubDate>Sat, 07 Dec 2019 02:29:44 +0000</pubDate>
+            <dc:creator><![CDATA[lilykdonaldson]]></dc:creator>
+            <guid isPermaLink="false">https://sprilab.com/wp-content/uploads/2019/12/the-dress.png</guid>
+		    <description></description>
+		    <content:encoded><![CDATA[]]> </content:encoded>
+		    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		    <wp:post_id>66</wp:post_id>
+		    <wp:post_date><![CDATA[2019-12-07 02:29:44]]></wp:post_date>
+		    <wp:post_date_gmt><![CDATA[2019-12-07 02:29:44]]></wp:post_date_gmt>
+		    <wp:comment_status><![CDATA[open]]></wp:comment_status>
+		    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		    <wp:post_name><![CDATA[the-dress-2]]></wp:post_name>
+		    <wp:status><![CDATA[inherit]]></wp:status>
+		    <wp:post_parent>0</wp:post_parent>
+		    <wp:menu_order>0</wp:menu_order>
+		    <wp:post_type><![CDATA[attachment]]></wp:post_type>
+		    <wp:post_password><![CDATA[]]></wp:post_password>
+		    <wp:is_sticky>0</wp:is_sticky>
+		    <wp:attachment_url><![CDATA[https://sprilab.com/wp-content/uploads/2019/12/the-dress.png]]></wp:attachment_url>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[2019/12/the-dress.png]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[a:5:{s:5:"width";i:225;s:6:"height";i:300;s:4:"file";s:21:"2019/12/the-dress.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"the-dress-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:21:"et-pb-post-main-image";a:4:{s:4:"file";s:21:"the-dress-225x250.png";s:5:"width";i:225;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";}s:21:"et-pb-portfolio-image";a:4:{s:4:"file";s:21:"the-dress-225x284.png";s:5:"width";i:225;s:6:"height";i:284;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		        <wp:meta_value><![CDATA['The Dress']]></wp:meta_value>
+		        </wp:postmeta>
+        </item>
+        <item>
+            <title>
+                cc dress2
+            </title>
+            <link>https://sprilab.com/?attachment_id=94</link>
+            <pubDate>Sat, 07 Dec 2019 07:04:11 +0000</pubDate>
+            <dc:creator><![CDATA[lilykdonaldson]]></dc:creator>
+            <guid isPermaLink="false">https://sprilab.com/wp-content/uploads/2019/12/cc-dress2.png</guid>
+		    <description></description>
+		    <content:encoded><![CDATA[]]> </content:encoded>
+		    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		    <wp:post_id>94</wp:post_id>
+		    <wp:post_date><![CDATA[2019-12-07 07:04:11]]></wp:post_date>
+		    <wp:post_date_gmt><![CDATA[2019-12-07 07:04:11]]></wp:post_date_gmt>
+		    <wp:comment_status><![CDATA[open]]></wp:comment_status>
+		    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		    <wp:post_name><![CDATA[cc-dress2]]></wp:post_name>
+		    <wp:status><![CDATA[inherit]]></wp:status>
+		    <wp:post_parent>0</wp:post_parent>
+		    <wp:menu_order>0</wp:menu_order>
+		    <wp:post_type><![CDATA[attachment]]></wp:post_type>
+		    <wp:post_password><![CDATA[]]></wp:post_password>
+		    <wp:is_sticky>0</wp:is_sticky>
+		    <wp:attachment_url><![CDATA[https://sprilab.com/wp-content/uploads/2019/12/cc-dress2.png]]></wp:attachment_url>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[2019/12/cc-dress2.png]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[a:5:{s:5:"width";i:2138;s:6:"height";i:1054;s:4:"file";s:21:"2019/12/cc-dress2.png";s:5:"sizes";a:15:{s:6:"medium";a:4:{s:4:"file";s:21:"cc-dress2-300x148.png";s:5:"width";i:300;s:6:"height";i:148;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:22:"cc-dress2-1024x505.png";s:5:"width";i:1024;s:6:"height";i:505;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:21:"cc-dress2-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:21:"cc-dress2-768x379.png";s:5:"width";i:768;s:6:"height";i:379;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:22:"cc-dress2-1536x757.png";s:5:"width";i:1536;s:6:"height";i:757;s:9:"mime-type";s:9:"image/png";}s:9:"2048x2048";a:4:{s:4:"file";s:23:"cc-dress2-2048x1010.png";s:5:"width";i:2048;s:6:"height";i:1010;s:9:"mime-type";s:9:"image/png";}s:21:"et-pb-post-main-image";a:4:{s:4:"file";s:21:"cc-dress2-400x250.png";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";}s:31:"et-pb-post-main-image-fullwidth";a:4:{s:4:"file";s:22:"cc-dress2-1080x675.png";s:5:"width";i:1080;s:6:"height";i:675;s:9:"mime-type";s:9:"image/png";}s:21:"et-pb-portfolio-image";a:4:{s:4:"file";s:21:"cc-dress2-400x284.png";s:5:"width";i:400;s:6:"height";i:284;s:9:"mime-type";s:9:"image/png";}s:28:"et-pb-portfolio-module-image";a:4:{s:4:"file";s:21:"cc-dress2-510x382.png";s:5:"width";i:510;s:6:"height";i:382;s:9:"mime-type";s:9:"image/png";}s:28:"et-pb-portfolio-image-single";a:4:{s:4:"file";s:22:"cc-dress2-1080x532.png";s:5:"width";i:1080;s:6:"height";i:532;s:9:"mime-type";s:9:"image/png";}s:35:"et-pb-gallery-module-image-portrait";a:4:{s:4:"file";s:21:"cc-dress2-400x516.png";s:5:"width";i:400;s:6:"height";i:516;s:9:"mime-type";s:9:"image/png";}s:32:"et-pb-image--responsive--desktop";a:4:{s:4:"file";s:22:"cc-dress2-1280x631.png";s:5:"width";i:1280;s:6:"height";i:631;s:9:"mime-type";s:9:"image/png";}s:31:"et-pb-image--responsive--tablet";a:4:{s:4:"file";s:21:"cc-dress2-980x483.png";s:5:"width";i:980;s:6:"height";i:483;s:9:"mime-type";s:9:"image/png";}s:30:"et-pb-image--responsive--phone";a:4:{s:4:"file";s:21:"cc-dress2-480x237.png";s:5:"width";i:480;s:6:"height";i:237;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[color constancy]]></wp:meta_value>
+		        </wp:postmeta>
+        </item>
+        <item>
+            <title>
+                cc dress1
+            </title>
+            <link>https://sprilab.com/?attachment_id=95</link>
+            <pubDate>Sat, 07 Dec 2019 07:04:23 +0000</pubDate>
+            <dc:creator><![CDATA[lilykdonaldson]]></dc:creator>
+            <guid isPermaLink="false">https://sprilab.com/wp-content/uploads/2019/12/cc-dress1.png</guid>
+		    <description></description>
+		    <content:encoded><![CDATA[]]> </content:encoded>
+		    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		    <wp:post_id>95</wp:post_id>
+		    <wp:post_date><![CDATA[2019-12-07 07:04:23]]></wp:post_date>
+		    <wp:post_date_gmt><![CDATA[2019-12-07 07:04:23]]></wp:post_date_gmt>
+		    <wp:comment_status><![CDATA[open]]></wp:comment_status>
+		    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		    <wp:post_name><![CDATA[cc-dress1]]></wp:post_name>
+		    <wp:status><![CDATA[inherit]]></wp:status>
+		    <wp:post_parent>0</wp:post_parent>
+		    <wp:menu_order>0</wp:menu_order>
+		    <wp:post_type><![CDATA[attachment]]></wp:post_type>
+		    <wp:post_password><![CDATA[]]></wp:post_password>
+		    <wp:is_sticky>0</wp:is_sticky>
+		    <wp:attachment_url><![CDATA[https://sprilab.com/wp-content/uploads/2019/12/cc-dress1.png]]></wp:attachment_url>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[2019/12/cc-dress1.png]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[a:5:{s:5:"width";i:2354;s:6:"height";i:908;s:4:"file";s:21:"2019/12/cc-dress1.png";s:5:"sizes";a:15:{s:6:"medium";a:4:{s:4:"file";s:21:"cc-dress1-300x116.png";s:5:"width";i:300;s:6:"height";i:116;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:22:"cc-dress1-1024x395.png";s:5:"width";i:1024;s:6:"height";i:395;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:21:"cc-dress1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:21:"cc-dress1-768x296.png";s:5:"width";i:768;s:6:"height";i:296;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:22:"cc-dress1-1536x592.png";s:5:"width";i:1536;s:6:"height";i:592;s:9:"mime-type";s:9:"image/png";}s:9:"2048x2048";a:4:{s:4:"file";s:22:"cc-dress1-2048x790.png";s:5:"width";i:2048;s:6:"height";i:790;s:9:"mime-type";s:9:"image/png";}s:21:"et-pb-post-main-image";a:4:{s:4:"file";s:21:"cc-dress1-400x250.png";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";}s:31:"et-pb-post-main-image-fullwidth";a:4:{s:4:"file";s:22:"cc-dress1-1080x675.png";s:5:"width";i:1080;s:6:"height";i:675;s:9:"mime-type";s:9:"image/png";}s:21:"et-pb-portfolio-image";a:4:{s:4:"file";s:21:"cc-dress1-400x284.png";s:5:"width";i:400;s:6:"height";i:284;s:9:"mime-type";s:9:"image/png";}s:28:"et-pb-portfolio-module-image";a:4:{s:4:"file";s:21:"cc-dress1-510x382.png";s:5:"width";i:510;s:6:"height";i:382;s:9:"mime-type";s:9:"image/png";}s:28:"et-pb-portfolio-image-single";a:4:{s:4:"file";s:22:"cc-dress1-1080x417.png";s:5:"width";i:1080;s:6:"height";i:417;s:9:"mime-type";s:9:"image/png";}s:35:"et-pb-gallery-module-image-portrait";a:4:{s:4:"file";s:21:"cc-dress1-400x516.png";s:5:"width";i:400;s:6:"height";i:516;s:9:"mime-type";s:9:"image/png";}s:32:"et-pb-image--responsive--desktop";a:4:{s:4:"file";s:22:"cc-dress1-1280x494.png";s:5:"width";i:1280;s:6:"height";i:494;s:9:"mime-type";s:9:"image/png";}s:31:"et-pb-image--responsive--tablet";a:4:{s:4:"file";s:21:"cc-dress1-980x378.png";s:5:"width";i:980;s:6:"height";i:378;s:9:"mime-type";s:9:"image/png";}s:30:"et-pb-image--responsive--phone";a:4:{s:4:"file";s:21:"cc-dress1-480x185.png";s:5:"width";i:480;s:6:"height";i:185;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[color constancy]]></wp:meta_value>
+		        </wp:postmeta>
+        </item>
+        <item>
+            <title>
+                high pass2
+            </title>
+            <link>https://sprilab.com/?attachment_id=96</link>
+            <pubDate>Sat, 07 Dec 2019 07:04:47 +0000</pubDate>
+            <dc:creator><![CDATA[lilykdonaldson]]></dc:creator>
+            <guid isPermaLink="false">https://sprilab.com/wp-content/uploads/2019/12/high-pass2.png</guid>
+		    <description></description>
+		    <content:encoded><![CDATA[]]> </content:encoded>
+		    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		    <wp:post_id>96</wp:post_id>
+		    <wp:post_date><![CDATA[2019-12-07 07:04:47]]></wp:post_date>
+		    <wp:post_date_gmt><![CDATA[2019-12-07 07:04:47]]></wp:post_date_gmt>
+		    <wp:comment_status><![CDATA[open]]></wp:comment_status>
+		    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		    <wp:post_name><![CDATA[high-pass2]]></wp:post_name>
+		    <wp:status><![CDATA[inherit]]></wp:status>
+		    <wp:post_parent>0</wp:post_parent>
+		    <wp:menu_order>0</wp:menu_order>
+		    <wp:post_type><![CDATA[attachment]]></wp:post_type>
+		    <wp:post_password><![CDATA[]]></wp:post_password>
+		    <wp:is_sticky>0</wp:is_sticky>
+		    <wp:attachment_url><![CDATA[https://sprilab.com/wp-content/uploads/2019/12/high-pass2.png]]></wp:attachment_url>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[2019/12/high-pass2.png]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[a:5:{s:5:"width";i:1220;s:6:"height";i:1396;s:4:"file";s:22:"2019/12/high-pass2.png";s:5:"sizes";a:12:{s:6:"medium";a:4:{s:4:"file";s:22:"high-pass2-262x300.png";s:5:"width";i:262;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:23:"high-pass2-895x1024.png";s:5:"width";i:895;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:22:"high-pass2-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:22:"high-pass2-768x879.png";s:5:"width";i:768;s:6:"height";i:879;s:9:"mime-type";s:9:"image/png";}s:21:"et-pb-post-main-image";a:4:{s:4:"file";s:22:"high-pass2-400x250.png";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";}s:31:"et-pb-post-main-image-fullwidth";a:4:{s:4:"file";s:23:"high-pass2-1080x675.png";s:5:"width";i:1080;s:6:"height";i:675;s:9:"mime-type";s:9:"image/png";}s:21:"et-pb-portfolio-image";a:4:{s:4:"file";s:22:"high-pass2-400x284.png";s:5:"width";i:400;s:6:"height";i:284;s:9:"mime-type";s:9:"image/png";}s:28:"et-pb-portfolio-module-image";a:4:{s:4:"file";s:22:"high-pass2-510x382.png";s:5:"width";i:510;s:6:"height";i:382;s:9:"mime-type";s:9:"image/png";}s:28:"et-pb-portfolio-image-single";a:4:{s:4:"file";s:24:"high-pass2-1080x1236.png";s:5:"width";i:1080;s:6:"height";i:1236;s:9:"mime-type";s:9:"image/png";}s:35:"et-pb-gallery-module-image-portrait";a:4:{s:4:"file";s:22:"high-pass2-400x516.png";s:5:"width";i:400;s:6:"height";i:516;s:9:"mime-type";s:9:"image/png";}s:31:"et-pb-image--responsive--tablet";a:4:{s:4:"file";s:23:"high-pass2-980x1121.png";s:5:"width";i:980;s:6:"height";i:1121;s:9:"mime-type";s:9:"image/png";}s:30:"et-pb-image--responsive--phone";a:4:{s:4:"file";s:22:"high-pass2-480x549.png";s:5:"width";i:480;s:6:"height";i:549;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		        </wp:postmeta>
+        </item>
+        <item>
+            <title>
+                high pass1
+            </title>
+            <link>https://sprilab.com/?attachment_id=97</link>
+            <pubDate>Sat, 07 Dec 2019 07:05:02 +0000</pubDate>
+            <dc:creator><![CDATA[lilykdonaldson]]></dc:creator>
+            <guid isPermaLink="false">https://sprilab.com/wp-content/uploads/2019/12/high-pass1.png</guid>
+		    <description></description>
+		    <content:encoded><![CDATA[]]> </content:encoded>
+		    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		    <wp:post_id>97</wp:post_id>
+		    <wp:post_date><![CDATA[2019-12-07 07:05:02]]></wp:post_date>
+		    <wp:post_date_gmt><![CDATA[2019-12-07 07:05:02]]></wp:post_date_gmt>
+		    <wp:comment_status><![CDATA[open]]></wp:comment_status>
+		    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		    <wp:post_name><![CDATA[high-pass1]]></wp:post_name>
+		    <wp:status><![CDATA[inherit]]></wp:status>
+		    <wp:post_parent>0</wp:post_parent>
+		    <wp:menu_order>0</wp:menu_order>
+		    <wp:post_type><![CDATA[attachment]]></wp:post_type>
+		    <wp:post_password><![CDATA[]]></wp:post_password>
+		    <wp:is_sticky>0</wp:is_sticky>
+		    <wp:attachment_url><![CDATA[https://sprilab.com/wp-content/uploads/2019/12/high-pass1.png]]></wp:attachment_url>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[2019/12/high-pass1.png]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[a:5:{s:5:"width";i:1248;s:6:"height";i:1414;s:4:"file";s:22:"2019/12/high-pass1.png";s:5:"sizes";a:12:{s:6:"medium";a:4:{s:4:"file";s:22:"high-pass1-265x300.png";s:5:"width";i:265;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:23:"high-pass1-904x1024.png";s:5:"width";i:904;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:22:"high-pass1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:22:"high-pass1-768x870.png";s:5:"width";i:768;s:6:"height";i:870;s:9:"mime-type";s:9:"image/png";}s:21:"et-pb-post-main-image";a:4:{s:4:"file";s:22:"high-pass1-400x250.png";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";}s:31:"et-pb-post-main-image-fullwidth";a:4:{s:4:"file";s:23:"high-pass1-1080x675.png";s:5:"width";i:1080;s:6:"height";i:675;s:9:"mime-type";s:9:"image/png";}s:21:"et-pb-portfolio-image";a:4:{s:4:"file";s:22:"high-pass1-400x284.png";s:5:"width";i:400;s:6:"height";i:284;s:9:"mime-type";s:9:"image/png";}s:28:"et-pb-portfolio-module-image";a:4:{s:4:"file";s:22:"high-pass1-510x382.png";s:5:"width";i:510;s:6:"height";i:382;s:9:"mime-type";s:9:"image/png";}s:28:"et-pb-portfolio-image-single";a:4:{s:4:"file";s:24:"high-pass1-1080x1224.png";s:5:"width";i:1080;s:6:"height";i:1224;s:9:"mime-type";s:9:"image/png";}s:35:"et-pb-gallery-module-image-portrait";a:4:{s:4:"file";s:22:"high-pass1-400x516.png";s:5:"width";i:400;s:6:"height";i:516;s:9:"mime-type";s:9:"image/png";}s:31:"et-pb-image--responsive--tablet";a:4:{s:4:"file";s:23:"high-pass1-980x1110.png";s:5:"width";i:980;s:6:"height";i:1110;s:9:"mime-type";s:9:"image/png";}s:30:"et-pb-image--responsive--phone";a:4:{s:4:"file";s:22:"high-pass1-480x544.png";s:5:"width";i:480;s:6:"height";i:544;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		        </wp:postmeta>
+        </item>
+        <item>
+            <title>
+                filtering
+            </title>
+            <link>https://sprilab.com/?attachment_id=98</link>
+            <pubDate>Sat, 07 Dec 2019 07:05:16 +0000</pubDate>
+            <dc:creator><![CDATA[lilykdonaldson]]></dc:creator>
+            <guid isPermaLink="false">https://sprilab.com/wp-content/uploads/2019/12/filtering.png</guid>
+		    <description></description>
+		    <content:encoded><![CDATA[]]> </content:encoded>
+		    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		    <wp:post_id>98</wp:post_id>
+		    <wp:post_date><![CDATA[2019-12-07 07:05:16]]></wp:post_date>
+		    <wp:post_date_gmt><![CDATA[2019-12-07 07:05:16]]></wp:post_date_gmt>
+		    <wp:comment_status><![CDATA[open]]></wp:comment_status>
+		    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		    <wp:post_name><![CDATA[filtering]]></wp:post_name>
+		    <wp:status><![CDATA[inherit]]></wp:status>
+		    <wp:post_parent>0</wp:post_parent>
+		    <wp:menu_order>0</wp:menu_order>
+		    <wp:post_type><![CDATA[attachment]]></wp:post_type>
+		    <wp:post_password><![CDATA[]]></wp:post_password>
+		    <wp:is_sticky>0</wp:is_sticky>
+		    <wp:attachment_url><![CDATA[https://sprilab.com/wp-content/uploads/2019/12/filtering.png]]></wp:attachment_url>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[2019/12/filtering.png]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[a:5:{s:5:"width";i:1670;s:6:"height";i:1300;s:4:"file";s:21:"2019/12/filtering.png";s:5:"sizes";a:14:{s:6:"medium";a:4:{s:4:"file";s:21:"filtering-300x234.png";s:5:"width";i:300;s:6:"height";i:234;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:22:"filtering-1024x797.png";s:5:"width";i:1024;s:6:"height";i:797;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:21:"filtering-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:21:"filtering-768x598.png";s:5:"width";i:768;s:6:"height";i:598;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:23:"filtering-1536x1196.png";s:5:"width";i:1536;s:6:"height";i:1196;s:9:"mime-type";s:9:"image/png";}s:21:"et-pb-post-main-image";a:4:{s:4:"file";s:21:"filtering-400x250.png";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";}s:31:"et-pb-post-main-image-fullwidth";a:4:{s:4:"file";s:22:"filtering-1080x675.png";s:5:"width";i:1080;s:6:"height";i:675;s:9:"mime-type";s:9:"image/png";}s:21:"et-pb-portfolio-image";a:4:{s:4:"file";s:21:"filtering-400x284.png";s:5:"width";i:400;s:6:"height";i:284;s:9:"mime-type";s:9:"image/png";}s:28:"et-pb-portfolio-module-image";a:4:{s:4:"file";s:21:"filtering-510x382.png";s:5:"width";i:510;s:6:"height";i:382;s:9:"mime-type";s:9:"image/png";}s:28:"et-pb-portfolio-image-single";a:4:{s:4:"file";s:22:"filtering-1080x841.png";s:5:"width";i:1080;s:6:"height";i:841;s:9:"mime-type";s:9:"image/png";}s:35:"et-pb-gallery-module-image-portrait";a:4:{s:4:"file";s:21:"filtering-400x516.png";s:5:"width";i:400;s:6:"height";i:516;s:9:"mime-type";s:9:"image/png";}s:32:"et-pb-image--responsive--desktop";a:4:{s:4:"file";s:22:"filtering-1280x996.png";s:5:"width";i:1280;s:6:"height";i:996;s:9:"mime-type";s:9:"image/png";}s:31:"et-pb-image--responsive--tablet";a:4:{s:4:"file";s:21:"filtering-980x763.png";s:5:"width";i:980;s:6:"height";i:763;s:9:"mime-type";s:9:"image/png";}s:30:"et-pb-image--responsive--phone";a:4:{s:4:"file";s:21:"filtering-480x374.png";s:5:"width";i:480;s:6:"height";i:374;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		        </wp:postmeta>
+        </item>
+        <item>
+            <title>
+                color constancy
+            </title>
+            <link>https://sprilab.com/?attachment_id=99</link>
+            <pubDate>Sat, 07 Dec 2019 07:05:34 +0000</pubDate>
+            <dc:creator><![CDATA[lilykdonaldson]]></dc:creator>
+            <guid isPermaLink="false">https://sprilab.com/wp-content/uploads/2019/12/color-constancy.png</guid>
+		    <description></description>
+		    <content:encoded><![CDATA[]]> </content:encoded>
+		    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		    <wp:post_id>99</wp:post_id>
+		    <wp:post_date><![CDATA[2019-12-07 07:05:34]]></wp:post_date>
+		    <wp:post_date_gmt><![CDATA[2019-12-07 07:05:34]]></wp:post_date_gmt>
+		    <wp:comment_status><![CDATA[open]]></wp:comment_status>
+		    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		    <wp:post_name><![CDATA[color-constancy]]></wp:post_name>
+		    <wp:status><![CDATA[inherit]]></wp:status>
+		    <wp:post_parent>0</wp:post_parent>
+		    <wp:menu_order>0</wp:menu_order>
+		    <wp:post_type><![CDATA[attachment]]></wp:post_type>
+		    <wp:post_password><![CDATA[]]></wp:post_password>
+		    <wp:is_sticky>0</wp:is_sticky>
+		    <wp:attachment_url><![CDATA[https://sprilab.com/wp-content/uploads/2019/12/color-constancy.png]]></wp:attachment_url>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[2019/12/color-constancy.png]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[a:5:{s:5:"width";i:1628;s:6:"height";i:1618;s:4:"file";s:27:"2019/12/color-constancy.png";s:5:"sizes";a:14:{s:6:"medium";a:4:{s:4:"file";s:27:"color-constancy-300x298.png";s:5:"width";i:300;s:6:"height";i:298;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:29:"color-constancy-1024x1018.png";s:5:"width";i:1024;s:6:"height";i:1018;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:27:"color-constancy-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:27:"color-constancy-768x763.png";s:5:"width";i:768;s:6:"height";i:763;s:9:"mime-type";s:9:"image/png";}s:9:"1536x1536";a:4:{s:4:"file";s:29:"color-constancy-1536x1527.png";s:5:"width";i:1536;s:6:"height";i:1527;s:9:"mime-type";s:9:"image/png";}s:21:"et-pb-post-main-image";a:4:{s:4:"file";s:27:"color-constancy-400x250.png";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";}s:31:"et-pb-post-main-image-fullwidth";a:4:{s:4:"file";s:28:"color-constancy-1080x675.png";s:5:"width";i:1080;s:6:"height";i:675;s:9:"mime-type";s:9:"image/png";}s:21:"et-pb-portfolio-image";a:4:{s:4:"file";s:27:"color-constancy-400x284.png";s:5:"width";i:400;s:6:"height";i:284;s:9:"mime-type";s:9:"image/png";}s:28:"et-pb-portfolio-module-image";a:4:{s:4:"file";s:27:"color-constancy-510x382.png";s:5:"width";i:510;s:6:"height";i:382;s:9:"mime-type";s:9:"image/png";}s:28:"et-pb-portfolio-image-single";a:4:{s:4:"file";s:29:"color-constancy-1080x1073.png";s:5:"width";i:1080;s:6:"height";i:1073;s:9:"mime-type";s:9:"image/png";}s:35:"et-pb-gallery-module-image-portrait";a:4:{s:4:"file";s:27:"color-constancy-400x516.png";s:5:"width";i:400;s:6:"height";i:516;s:9:"mime-type";s:9:"image/png";}s:32:"et-pb-image--responsive--desktop";a:4:{s:4:"file";s:29:"color-constancy-1280x1272.png";s:5:"width";i:1280;s:6:"height";i:1272;s:9:"mime-type";s:9:"image/png";}s:31:"et-pb-image--responsive--tablet";a:4:{s:4:"file";s:27:"color-constancy-980x974.png";s:5:"width";i:980;s:6:"height";i:974;s:9:"mime-type";s:9:"image/png";}s:30:"et-pb-image--responsive--phone";a:4:{s:4:"file";s:27:"color-constancy-480x477.png";s:5:"width";i:480;s:6:"height";i:477;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attachment_image_alt]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[color constancy]]></wp:meta_value>
+		        </wp:postmeta>
+        </item>
+        <item>
+            <title>
+                pinkvans
+            </title>
+            <link>https://sprilab.com/?attachment_id=100</link>
+            <pubDate>Sat, 07 Dec 2019 07:16:33 +0000</pubDate>
+            <dc:creator><![CDATA[lilykdonaldson]]></dc:creator>
+            <guid isPermaLink="false">https://sprilab.com/wp-content/uploads/2019/12/pinkvans.jpeg</guid>
+		    <description></description>
+		    <content:encoded><![CDATA[]]> </content:encoded>
+		    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		    <wp:post_id>100</wp:post_id>
+		    <wp:post_date><![CDATA[2019-12-07 07:16:33]]></wp:post_date>
+		    <wp:post_date_gmt><![CDATA[2019-12-07 07:16:33]]></wp:post_date_gmt>
+		    <wp:comment_status><![CDATA[open]]></wp:comment_status>
+		    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		    <wp:post_name><![CDATA[pinkvans]]></wp:post_name>
+		    <wp:status><![CDATA[inherit]]></wp:status>
+		    <wp:post_parent>0</wp:post_parent>
+		    <wp:menu_order>0</wp:menu_order>
+		    <wp:post_type><![CDATA[attachment]]></wp:post_type>
+		    <wp:post_password><![CDATA[]]></wp:post_password>
+		    <wp:is_sticky>0</wp:is_sticky>
+		    <wp:attachment_url><![CDATA[https://sprilab.com/wp-content/uploads/2019/12/pinkvans.jpeg]]></wp:attachment_url>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[2019/12/pinkvans.jpeg]]></wp:meta_value>
+		        </wp:postmeta>
+                <wp:postmeta>
+                <wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		        <wp:meta_value><![CDATA[a:5:{s:5:"width";i:480;s:6:"height";i:269;s:4:"file";s:21:"2019/12/pinkvans.jpeg";s:5:"sizes";a:5:{s:6:"medium";a:4:{s:4:"file";s:21:"pinkvans-300x168.jpeg";s:5:"width";i:300;s:6:"height";i:168;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:21:"pinkvans-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"et-pb-post-main-image";a:4:{s:4:"file";s:21:"pinkvans-400x250.jpeg";s:5:"width";i:400;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";}s:21:"et-pb-portfolio-image";a:4:{s:4:"file";s:21:"pinkvans-400x269.jpeg";s:5:"width";i:400;s:6:"height";i:269;s:9:"mime-type";s:10:"image/jpeg";}s:35:"et-pb-gallery-module-image-portrait";a:4:{s:4:"file";s:21:"pinkvans-400x269.jpeg";s:5:"width";i:400;s:6:"height";i:269;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		        </wp:postmeta>
+        </item>
+</channel>
+</rss> 
